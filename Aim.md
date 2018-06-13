@@ -1,4 +1,4 @@
-#Predict Catalog Retail
+<h> Predict Catalog Retail </h>
 The aim is to perform analysis to determine whether the retail company should print and send catalogs to its new customers
 
 This will require analysing the historical customer data to determine predictor variables 
