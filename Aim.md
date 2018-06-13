@@ -1,6 +1,6 @@
 <h> <b>Predict Catalog Retail </b></h>
 <p>
-The aim is to perform analysis to determine whether the retail company should print and send catalogs to its new customers
+The aim is build a multiple variable linear regression model in Alteryx to determine whether a dummy retail company should invest in incremental advertising spending.
 </p>
 
 <p>
